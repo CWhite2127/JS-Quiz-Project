@@ -1,5 +1,21 @@
 .container {
     margin: auto;
     width: 50%;
-    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+display: flex;
+justify-content: center;
+background-color: blue;
+color: white;
+padding: 15px;
+text-align: center;
+
+}
+
+
+.hidden {
+    display: none;
 }
