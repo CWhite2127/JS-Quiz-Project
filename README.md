@@ -17,3 +17,9 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
+
+**# Screenshot**
+![cwhite2127 github io_JS-Quiz-Project_ (1)](https://user-images.githubusercontent.com/123609107/219548386-4dcc6dd1-d5b3-47b7-b834-48d81001ad9c.png)
+![_C__Users_cwhit_JS-Quiz-NewProject_JS-Quiz-Project_index html](https://user-images.githubusercontent.com/123609107/219548402-33cea4c0-002e-45bd-94b7-74092153d1b4.png)
+
+**# Link** https://cwhite2127.github.io/JS-Quiz-Project/
